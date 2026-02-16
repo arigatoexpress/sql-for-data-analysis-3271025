@@ -1,4 +1,7 @@
 # SQL for Data Analysis
+
+> See `AGENTS.md` for agentic navigation.
+
 This is the repository for the LinkedIn Learning course SQL for Data Analysis. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![SQL for Data Analysis][lil-thumbnail-url] 
